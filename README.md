@@ -5,7 +5,7 @@
 |Autores: João, Vitor & Volglas|
 👾
 ## Layout (EasyEDA)
-![](https://github.com/Jhony2006/Fonte-Ajustavel/blob/main/Layout.png?raw=true)
+![](https://github.com/Jhony2006/Fonte-Ajustavel/blob/main/Plano%20de%20Terra.PNG?raw=true)
 :---:
 |Autores: João, Vitor & Volglas|
 👾
